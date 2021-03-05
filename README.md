@@ -5,6 +5,7 @@ CRUD operations using in-memory H2 DB build using SpringBoot Restful microservic
 
 
 HTTP method:POST: 
+=================
 
 URL: http://localhost:8080/persons
 
@@ -81,6 +82,7 @@ Output:
 http://localhost:8080/persons
 
 HTTP method: PUT
+================
 
 
 Output:
@@ -98,8 +100,9 @@ Output:
 
 
 URL:: http://localhost:8080/persons/1126
-HTTP method: Delete
 
+HTTP method: Delete
+=====================
 Output:: (Returns count of record deleted.)
 
 1
